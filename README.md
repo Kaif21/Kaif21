@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @Kaif21
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, Tailwind, JS
-
-<!---
-Kaif21/Kaif21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/66a62b93003526183e3c/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/)
